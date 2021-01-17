@@ -1,0 +1,13 @@
+---
+title: "Notes - Art Metadata"
+author: "Katherine Taylor"
+date: "01-17-2021"
+output: html_document
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Notes
+- Performing the analysis on title, medium, and credit_line
